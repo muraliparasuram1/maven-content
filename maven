@@ -4,3 +4,11 @@ maven life cycel
 clear
 default
 site
+maven defalut life cycle phases
+validate
+compile
+test 
+package
+verify
+install
+deploy
